@@ -25,6 +25,9 @@ or operational infrastructure.
   interactions.
 - [`research/evaluation-and-failure-taxonomy.md`](research/evaluation-and-failure-taxonomy.md)
   — evaluation layers, failure classes, and evidence rules.
+- [`research/2026-10-status-m7.2.1.md`](research/2026-10-status-m7.2.1.md)
+  — October 2026 progress note: context composition, provenance trust, and
+  benchmark confinement. Design and verification only; no results yet.
 - [`reference/evaluation_record.py`](reference/evaluation_record.py) — a
   non-operational public record contract that contains no raw context or
   execution payloads.
